@@ -48,7 +48,8 @@ Analytical SQL (ROLLUP / CUBE / Window Functions)
 ├── docs/
 │   └── CS779_TermProject_Final.pdf       # Full written project report
 └── dashboard/
-    └── powerbi_screenshots/              # Dashboard visuals, mapped to queries
+    └── powerbi_screenshots/
+        └── dashboard_overview.png        # All 4 dashboard visuals, mapped to queries
 ```
 
 ## Key design decisions
